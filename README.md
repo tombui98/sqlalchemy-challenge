@@ -1,4 +1,4 @@
-# Module 10 Challenge
+# Module 10 Challenge - SQLAlchemy
 ### Before You Begin
 * Create a new repository for this project called `sqlalchemy-challenge`. Do not add this assignment to an existing repository.
 
